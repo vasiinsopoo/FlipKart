@@ -6,6 +6,8 @@ public class TestLogin {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Test 1"); //added at initial
+		
+		System.out.println(" Test 2 "); // added by windows 2
 
 	}
 
